@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "file.upload.location",
+    "type": "java.lang.String",
+    "description": "File upload default location"
+  },
+  {
+    "name": "ezyrent.max-in-one-apartment",
+    "type": "java.lang.Integer",
+    "description": "Maximum number of user in one apartment"
+  }
+]}

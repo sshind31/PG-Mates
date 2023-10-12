@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file.upload",
+      "type": "com.flatmate.utils.FileUploadProperties",
+      "sourceType": "com.flatmate.utils.FileUploadProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload.location",
+      "type": "java.lang.String",
+      "sourceType": "com.flatmate.utils.FileUploadProperties"
+    }
+  ],
+  "hints": []
+}
